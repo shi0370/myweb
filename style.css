@@ -1,0 +1,17 @@
+body{
+   text-align: center;
+}
+.btn{ 	
+  border: solid 3px black;
+  width: 100px;
+  height: 100px;
+  display: inline;
+  font-size: 30px;
+  color: red;
+  background-color: #DBABFF;
+
+}
+h1{
+  font-size: 90px;
+  font-fanily; 標楷體;
+}
